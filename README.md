@@ -184,29 +184,3 @@ Em seguida:
 3. execute as etapas de limpeza e tokenização
 4. treine o modelo LDA
 5. visualize os tópicos com pyLDAvis
-
-## Conclusão
-
-Este repositório ilustra, de maneira prática e didática, como aplicar técnicas de topic modeling em avaliações textuais. O projeto combina conceitos fundamentais de NLP com uma abordagem de modelagem probabilística para extrair temas ocultos do corpus.
-
-É uma ótima referência para quem está começando a estudar:
-
-- processamento de linguagem natural
-- análise de texto
-- mineração de opinião
-- modelagem de tópicos
-- visualização interpretável de modelos
-
-## Créditos
-
-- Projeto desenvolvido no minicurso "Topic Modeling Using Transformers"
-- Ministrado por: Prof. Dr. Michael Cruz
-- Evento: JATI 2023
-
-## Repositório
-
-Este notebook está disponível em:
-
-- GitHub: https://github.com/MarkAntonio/Topic-Modeling-Using-Transformers
-
-Se quiser, posso também criar uma versão mais "profissional" deste README em inglês, ou transformar este README em uma documentação mais estruturada com seções como "Instalação", "Metodologia", "Resultados esperados" e "Conclusão".
